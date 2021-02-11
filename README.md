@@ -1,3 +1,5 @@
 # bitcoin_modeling
 
-Bitcoin Modeling Project by Nicholas Kemper
+An app to analyze cryptocurrency! 
+
+Written by Nicholas Kemper
